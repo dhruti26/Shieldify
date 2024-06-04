@@ -1,0 +1,3 @@
+[submodule "GmailAPIintegration"]
+	path = GmailAPIintegration
+	url = https://github.com/dhruti26/Shieldify
